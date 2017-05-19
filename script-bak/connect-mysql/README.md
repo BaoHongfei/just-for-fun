@@ -1,6 +1,6 @@
 step1  
-vi ~/.bash_profile  
 ```
+vi ~/.bash_profile  
 alias ms="~/connect_mysql.sh"
 ```
 step2  
