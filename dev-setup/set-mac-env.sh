@@ -14,6 +14,6 @@ curl -O https://raw.githubusercontent.com/baohongfei/just-for-fun/master/dev-set
 curl -O https://raw.githubusercontent.com/baohongfei/just-for-fun/master/dev-setup/.bash_prompt;
 curl -O https://raw.githubusercontent.com/baohongfei/just-for-fun/master/dev-setup/.aliases;
 
-source ~/.bash_profile;
+source .bash_profile;
 
 echo "SUCCEEDED!"
